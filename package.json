@@ -52,6 +52,7 @@
     "zero-fill": "^2.2.4"
   },
   "devDependencies": {
+    "@types/debug": "^4.1.5",
     "autosize": "^4.0.3",
     "blueimp-file-upload": "^10.31.0",
     "coffee-loader": "^3.0.0",
@@ -71,6 +72,7 @@
     "imports-loader": "^2.0.0",
     "jquery": "^3.6.0",
     "pretty-units": "^0.1.0",
+    "typescript": "^4.2.4",
     "webpack-stream": "^6.1.2"
   }
 }

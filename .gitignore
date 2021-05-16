@@ -10,3 +10,5 @@
 /thumbnails/
 /logs/
 .sass-cache
+
+bin/www.js
