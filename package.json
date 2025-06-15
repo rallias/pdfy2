@@ -24,7 +24,7 @@
     "express-rate-limit": "^5.2.6",
     "express-session": "^1.17.1",
     "file-stream-rotator": "^0.5.7",
-    "glob": "^7.1.7",
+    "glob": "^11.0.3",
     "gm": "^1.23.1",
     "ia-headers": "^1.0.0",
     "knex": "^0.95.5",
